@@ -1,0 +1,54 @@
+[
+  {
+    "path": "chart/templates",
+    "name": "templates",
+    "type": "folder",
+    "items": [
+      {
+        "path": "chart/templates/deployments",
+        "name": "deployments",
+        "type": "folder",
+        "items": [{
+          "path": "chart/templates/deployments/asdf-deployment.yaml",
+          "name": "asdf-deployment.yaml",
+          "type": "file"
+        }]
+      },
+      {
+        "path": "chart/templates/namespaces",
+        "name": "namespaces",
+        "type": "folder",
+        "items": [{
+          "path": "chart/templates/namespaces/iot4cities-namespace.yaml",
+          "name": "iot4cities-namespace.yaml",
+          "type": "file"
+        }]
+      },
+      {
+        "path": "chart/templates/.NOTES.txt",
+        "name": ".NOTES.txt",
+        "type": "file"
+      },
+      {
+        "path": "chart/templates/_helpers.tpl",
+        "name": "_helpers.tpl",
+        "type": "file"
+      }
+    ]
+  },
+  {
+    "path": "chart/.helmignore",
+    "name": ".helmignore",
+    "type": "file"
+  },
+  {
+    "path": "chart/Chart.yaml",
+    "name": "Chart.yaml",
+    "type": "file"
+  },
+  {
+    "path": "chart/values.yaml",
+    "name": "values.yaml",
+    "type": "file"
+  }
+]
